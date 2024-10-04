@@ -1,0 +1,398 @@
+ 
+    
+    @media (min-width:681px ) and (max-width:6000px) { body {
+        background-color:rgb(0, 0, 0);
+        background: linear-gradient(0deg, rgb(0, 145, 255) 0%, black 100%, rgb(0, 145, 255)  );
+        height: 200vh;
+        width:150vh ;
+        position: static;
+        max-width: 2000px;
+
+    }
+
+
+    #name {
+        position: relative;
+        top: 500px;
+        left: 100px;
+        font-size: 40px;
+        font-weight: 700px;
+        color: rgb(221, 221, 221);
+    }
+    
+    p {
+        position: relative;
+        top: 500px;
+        left: 100px;
+        font-weight: 300px;
+        font-size: 30px;
+        color:rgb(221, 221, 221) ;
+    }
+    
+    #first {
+        background-color: rgb(0, 106, 255);
+        height: 100px;
+        width: 2000px;
+        position: relative;
+        top: 850px;
+        right: 100px;
+    }
+    
+    #sec {
+        background-color: rgb(255, 98, 0);
+        height: 100px;
+        width: 100px;
+        border-top-right-radius: 90px;
+        position: relative;
+        right: 20px;
+    }
+    
+    #third {
+        background-color: rgb(208, 0, 0);
+        height: 100px;
+        width: 100px;
+        border-bottom-left-radius: 90px;
+        position: relative;
+        left: 200px;
+        bottom: 503px;
+    }
+    
+    #four {
+        background-color:rgb(74, 190, 205);
+        height: 100px;
+        width: 100px;
+        border-bottom-right-radius: 90px;
+        position: relative;
+        left: 550px;
+        bottom: 603px;
+    
+    }
+    
+    #five {
+        background-color: rgb(0, 47, 50);
+        height: 100px;
+        width: 100px;
+        border-bottom-left-radius: 90px;
+        position: relative;
+        left: 994px;
+        bottom: 1200px;
+    }
+
+    #six {
+        background-color: orangered;
+        width: 100px;
+        height: 100px;
+        border-bottom-right-radius: 80px;
+        position: relative;
+        left: 800px;
+        bottom: 702px;
+    }
+    
+    #seven {
+        background-color:rgb(74, 190, 205) ;
+        height: 100px;
+        width: 100px;
+        border-top-left-radius: 80px;
+        position: relative;
+        left: 700px;
+        bottom: 700px;
+    }
+    
+    #design {
+        background-color: rgb(251, 255, 0);
+        height: 100px;
+        width: 100px;
+        border-top-right-radius: 80px;
+        position: relative;
+        left: 800px;
+        bottom: 799px;
+    }
+    
+    #eight {
+        background-color: orangered;
+        height: 100px;
+        width: 100px;
+        border-top-left-radius: 80px;
+        position: relative;
+        left: 901px;
+        bottom: 900px;
+    }
+    
+    #nine {
+        background-color:rgb(74, 190, 205) ;
+        height: 100px;
+        width: 100px;
+        border-top-right-radius: 80px;
+        position: relative;
+        left:995px ;
+        bottom: 1000px;
+    }
+    
+    #ten {
+        background-color: rgb(251, 255, 0);
+        height: 100px;
+        width: 100px;
+        border-top-left-radius: 80px;
+        position: relative;
+        left: 1094px;
+        bottom: 1100px;
+    }
+    
+    #eleven {
+        background-color: rgb(0, 50, 7);
+        height: 100px;
+        width: 100px;
+        border-top-right-radius: 80px;
+        position: relative;
+        left: 1195px;
+        bottom: 1199px;
+    }
+
+    #twelve {
+        background-color: rgb(74, 190, 205) ;
+        height: 100px;
+        width: 100px;
+        border-bottom-left-radius: 90px;
+        position: relative;
+        left: 1949px;
+        bottom: 1000px;
+    }
+
+    #thirteen {
+        background-color: rgb(74, 190, 205);
+        height: 100px;
+        width: 100px;
+        border-bottom-right-radius: 70px;
+        position: relative;
+        left: 550px;
+        bottom: 990px;
+    }
+
+    #fourteen {
+        background-color: orangered;
+        height: 100px;
+        width: 100px;
+        border-bottom-left-radius: 90px;
+        position: relative;
+        left: 1000px;
+        bottom: 900px;
+    }
+
+    #fifteen {
+        background-color: rgb(251, 255, 0);
+        height: 100px;
+        width: 100px;
+        border-top-right-radius: 90px;
+        position: relative;
+        left: 1000px;
+        bottom: 1100px;
+    }
+    
+    a {
+        font-weight: 1000;
+        font-size: 30px;
+        position: relative;
+        left: 1390px;
+        bottom: 1900px;
+        justify-content: space-around;
+        color: rgb(221, 221, 221);
+        text-decoration: none;
+        padding: 30px;
+    }
+
+    a:hover {
+        color: rgb(0, 0, 72);
+    }
+    
+}
+
+  @media (min-width: 319px ) and (max-width: 680px) {
+         
+    body {
+        background-color:rgb(0, 0, 0);
+        background: linear-gradient(0deg, rgb(0, 145, 255) 0%, black 100%, rgb(0, 145, 255)  );
+        height: 100vh;
+        width:50vh ;
+        position: static;
+        max-width: 680px;
+
+    }
+
+
+    #name {
+        position: relative;
+        top: 500px;
+        left: 80px;
+        font-size: 40px;
+        font-weight: 700px;
+        color: rgb(221, 221, 221);
+    }
+    
+    p {
+        position: relative;
+        top: 500px;
+        left: 80px;
+        font-weight: 300px;
+        font-size: 30px;
+        color:rgb(221, 221, 221) ;
+    }
+    
+    #first {
+        background-color: rgb(0, 106, 255);
+        height: 100px;
+        width: 740px;
+        position: relative;
+        top: 570px;
+        right: 20px;
+        
+    }
+    
+    #sec {
+        background-color: rgb(255, 98, 0);
+        height: 100px;
+        width: 100px;
+        border-top-right-radius: 90px;
+        position: relative;
+        right: 10px;
+       
+    }
+    
+    #third {
+        background-color: rgb(208, 0, 0);
+        height: 100px;
+        width: 100px;
+        border-bottom-left-radius: 90px;
+        position: relative;
+        bottom: 500px;
+        
+    }
+    
+    #four {
+        background-color:rgb(74, 190, 205);
+        height: 100px;
+        width: 100px;
+        border-bottom-right-radius: 90px;
+        position: relative;
+        bottom: 600px;
+        left: 90px;
+       
+    
+    }
+    
+    #five {
+        background-color: rgb(0, 47, 50);
+        height: 100px;
+        width: 100px;
+        border-bottom-left-radius: 90px;
+        position: relative;
+        bottom: 1050px;
+        left: 330px;
+    }
+
+    
+    
+    #seven {
+        background-color:rgb(74, 190, 205) ;
+        height: 100px;
+        width: 100px;
+        border-top-left-radius: 80px;
+        position: relative;
+        bottom: 550px;
+        left: 40px;
+      
+    }
+    
+    #design {
+        background-color: rgb(251, 255, 0);
+        height: 100px;
+        width: 100px;
+        border-top-right-radius: 80px;
+        position: relative;
+        bottom: 650px;
+        left: 130px;
+    }
+    
+    #eight {
+        background-color: orangered;
+        height: 100px;
+        width: 100px;
+        border-top-left-radius: 80px;
+        position: relative;
+        bottom: 750px;
+        left: 230px;
+    }
+    
+    #nine {
+        background-color:rgb(74, 190, 205) ;
+        height: 100px;
+        width: 100px;
+        border-top-right-radius: 80px;
+        position: relative;
+        bottom: 850px;
+        left: 330px;
+    }
+    
+    #ten {
+        background-color: rgb(251, 255, 0);
+        height: 100px;
+        width: 100px;
+        border-top-left-radius: 80px;
+        position: relative;
+        bottom: 950px;
+        left: 430px;
+    }
+    
+    #eleven {
+        background-color: rgb(0, 50, 7);
+        height: 100px;
+        width: 100px;
+        border-top-right-radius: 80px;
+        position: relative;
+        bottom: 1050px;
+        left: 520px;
+    }
+
+    #twelve {
+        background-color: rgb(74, 190, 205) ;
+        height: 100px;
+        width: 100px;
+        border-bottom-left-radius: 90px;
+        position: relative;
+        bottom: 1050px;
+        left: 570px;
+    }
+
+    #thirteen {
+        background-color: rgb(74, 190, 205);
+        height: 100px;
+        width: 100px;
+        border-bottom-right-radius: 70px;
+        position: relative;
+        bottom: 850px;
+        left: 500px;
+    }
+
+       
+   
+    
+    a {
+        font-weight: 1000;
+        font-size: 30px;
+        position: relative;
+        bottom: 1600px;
+        left: 210px;
+        
+        color: rgb(221, 221, 221);
+        text-decoration: none;
+        padding: 8px;
+    }
+
+    a:hover {
+        color: rgb(0, 0, 72);
+    }
+    
+    }
+  
+
+
+ 

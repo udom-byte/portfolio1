@@ -1,0 +1,93 @@
+
+     body {
+        background-color: black;
+     }
+
+
+a{
+    color: white;
+    position: relative;
+    left: 9px;
+    text-decoration: none;
+}
+
+.poster {
+    width: 50%;
+    position: relative;
+    left: 600px;
+    top: 250px;
+ }
+
+ #RR {
+    color: white;
+    position: absolute;
+    top: 170px;
+    right: 360PX;
+ }
+ 
+ .motivational-poster {
+    border: 5px solid white;
+    width: 100%;
+}
+
+a {
+    color: white;
+    text-transform: uppercase;
+    font-size: 30px;
+    font-weight: bold;
+    text-align: start;
+   display: inline-block;
+   position: relative;
+   top: 30px;
+   right: 130px;
+}
+
+.ble {
+    border: 10px gray;
+
+}
+
+
+h1 {
+    color: blue;
+}
+
+h2 {
+    color: white;
+}
+
+h3 {
+    color: white;
+}
+
+#big {
+    color: blue;
+    text-align: right ;
+    position: relative;
+    bottom: 35px;
+}
+
+    .main {
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+    grid-template-rows: 1fr 2fr;
+    gap: 140px;
+}
+
+
+#tt {
+    position: relative;
+    top: 5px;
+}
+
+#yt {
+    font-size: small;
+    font-weight: 0px;
+    position: absolute;
+    top: 415px;
+}
+
+#first {
+    position: relative;
+    left: 2px;
+}
